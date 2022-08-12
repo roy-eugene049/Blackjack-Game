@@ -3,10 +3,6 @@ let player = {
     chips: 122
 }
 
-//Rough overview
-
-let control = "preview";
-
 let hasBlackJack = false
 let isAlive = false
 let message = ""
